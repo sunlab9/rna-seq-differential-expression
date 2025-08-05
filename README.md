@@ -67,7 +67,7 @@ These genes are associated with:
 ## 📊 Visuals
 - ✅ Heatmap of DEGs  
 - ✅ KEGG barplot  
-- ⬜ Volcano plot (optional, can be added)
+
 
 ## 🧪 Tools Used
 - R / Bioconductor  
